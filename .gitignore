@@ -1,0 +1,15 @@
+# Eclipse metadata files
+.metadata/
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# Operational Data states
+users.txt
+products.txt
+
+# OS Specific junk
+Thumbs.db
+.DS_Store
